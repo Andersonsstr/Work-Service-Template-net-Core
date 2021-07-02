@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Work_Service_Template_net_Core": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
